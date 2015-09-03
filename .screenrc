@@ -1,0 +1,6 @@
+startup_message off
+vbell off
+defscrollback 1000
+
+hardstatus alwayslastline
+hardstatus string "%{= bW} %H | %-w%{+bu}%n %t%{-bu}%+w"
