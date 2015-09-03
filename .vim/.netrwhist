@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/halstead/.ssh'
+let g:netrw_dirhist_2='/home/halstead/projects/p4lang/p4factory/targets/basic_routing'
+let g:netrw_dirhist_3='/home/halstead/local/lib/python2.7/p4toFPGA'
+let g:netrw_dirhist_4='/home/halstead/projects/p4lang/p4factory/.git'
+let g:netrw_dirhist_5='/home/halstead/.vim/after/ftplugin'
